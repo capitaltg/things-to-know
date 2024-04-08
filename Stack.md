@@ -22,7 +22,8 @@ We'll use ReactJS for developing applications this summer.
 ## Python
 - Watch a free CodeAcademy [intro course](https://www.codecademy.com/learn/learn-python-3)
 - Make sure you can run Python locally
-- 
+- Learn about the basics of [pandas](https://pandas.pydata.org/docs/user_guide/10min.html) and dataframes
+- Read about the [Zen of Python](https://www.educative.io/blog/the-zen-of-python) and best practices for developing Pythonic Code.
 
 ## TypeScript
 - Read a [brief overview](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) of TypeScript
