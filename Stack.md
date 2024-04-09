@@ -28,3 +28,16 @@ We'll use ReactJS for developing applications this summer.
 ## TypeScript
 - Read a [brief overview](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) of TypeScript
 - Watch a free CodeAcademy [intro course](https://www.codecademy.com/learn/learn-typescript)
+
+## Java
+- Watch a free CodeAcademy [Intro to Java](https://www.codecademy.com/learn/java-introduction) or 
+  [Learn Java](https://www.codecademy.com/learn/learn-java) course.
+- Any non-trivial Java application that uses libraries should use Gradle.  Read through the
+  [Gradle Getting Started](https://docs.gradle.org/current/userguide/getting_started_eng.html).
+- If you need to find library dependencies, [MVN Repository](https://mvnrepository.com/) is the
+  best place to look.
+
+## Spring Boot
+- [Spring Boot](https://spring.io/projects/spring-boot) simplifies Java applications by providing
+  pre-configured setups and conventions to help create standalone, production-ready applications.
+- Watch a free CodeAcademy [Learn Spring](https://www.codecademy.com/learn/learn-spring) video.
