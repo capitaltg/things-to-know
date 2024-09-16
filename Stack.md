@@ -11,7 +11,7 @@ by Mozilla.
 
 ## React
 We'll use ReactJS for developing applications this summer.
-- Watch a free CodeAcademy [intro course](https://www.codecademy.com/learn/learn-react-introduction)
+- Watch a free Codecademy [intro course](https://www.codecademy.com/learn/learn-react-introduction)
 - Familiarize yourself with React's component-based architecture and virtual DOM.
 - Learn [JSX syntax](https://react.dev/learn/writing-markup-with-jsx) for writing React components.
 - Create a Hello World React application and run it locally.
@@ -20,17 +20,17 @@ We'll use ReactJS for developing applications this summer.
 - Practice extending your React application, and add basic forms and event-handling.
 
 ## Python
-- Watch a free CodeAcademy [intro course](https://www.codecademy.com/learn/learn-python-3)
+- Watch a free Codecademy [intro course](https://www.codecademy.com/learn/learn-python-3)
 - Make sure you can run Python locally
 - Learn about the basics of [pandas](https://pandas.pydata.org/docs/user_guide/10min.html) and dataframes
 - Read about the [Zen of Python](https://www.educative.io/blog/the-zen-of-python) and best practices for developing Pythonic Code.
 
 ## TypeScript
 - Read a [brief overview](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) of TypeScript
-- Watch a free CodeAcademy [intro course](https://www.codecademy.com/learn/learn-typescript)
+- Watch a free Codecademy [intro course](https://www.codecademy.com/learn/learn-typescript)
 
 ## Java
-- Watch a free CodeAcademy [Intro to Java](https://www.codecademy.com/learn/java-introduction) or 
+- Watch a free Codecademy [Intro to Java](https://www.codecademy.com/learn/java-introduction) or 
   [Learn Java](https://www.codecademy.com/learn/learn-java) course.
 - Any non-trivial Java application that uses libraries should use Gradle.  Read through the
   [Gradle Getting Started](https://docs.gradle.org/current/userguide/getting_started_eng.html).
@@ -40,4 +40,14 @@ We'll use ReactJS for developing applications this summer.
 ## Spring Boot
 - [Spring Boot](https://spring.io/projects/spring-boot) simplifies Java applications by providing
   pre-configured setups and conventions to help create standalone, production-ready applications.
-- Watch a free CodeAcademy [Learn Spring](https://www.codecademy.com/learn/learn-spring) video.
+- Watch a free Codecademy [Learn Spring](https://www.codecademy.com/learn/learn-spring) video.
+
+# SQL
+SQL (Structured Query Language) is essential for working with relational databases like MySQL, Postgres, or SQLite.
+
+- Watch a free Codecademy [Intro to SQL](https://www.codecademy.com/learn/learn-sql) course.
+- Learn the basics of SQL syntax, including SELECT, INSERT, UPDATE, and DELETE statements.
+- Understand how to join multiple tables using JOIN, INNER JOIN, and LEFT JOIN.
+- Know how to create and manipulate databases and tables with CREATE and ALTER statements.
+- Practice using aggregate functions like COUNT, SUM, AVG, and GROUP BY for data analysis.
+- Study advanced concepts like indexes, subqueries, and transactions for optimizing database operations.
